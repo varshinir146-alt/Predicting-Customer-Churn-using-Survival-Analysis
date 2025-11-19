@@ -1,0 +1,1 @@
+# Survival Analysis Report (Template)\nDate: 2025-11-19T09:07:20.267724\n\nFill in results from outputs/ after running the script.
